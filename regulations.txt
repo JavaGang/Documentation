@@ -1,0 +1,5 @@
+Приложение для учета и бронирования билетов.
+Технолологии:
+Spring Framework (rest) (Backend)
+Vue.js (Frontend)
+MySql
